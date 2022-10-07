@@ -8,5 +8,9 @@
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/115155057?v=4" width=115><br><sub>ProgramerDuh</sub>](https://github.com/ProgramerDuh?tab=followers) |  [<img src="https://avatars.githubusercontent.com/u/115152924?v=4" width=115><br><sub>ProgramerCris</sub>](https://github.com/ProgramerCris?tab=followers) |  [<img src="https://avatars.githubusercontent.com/u/115152982?v=4" width=115><br><sub>josevictorvieira</sub>](https://github.com/josevictorvieira) |
 | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/115155189?v=4" width=115><br><sub>wesleyprogramador</sub>](https://github.com/wesleyprogramador) |  
+
+
+
